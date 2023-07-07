@@ -1,7 +1,7 @@
 function Footer() {
   return (
     <>
-      <h1>Footer component</h1>
+      <footer>&copy;2023 Code Fellows</footer>
 
       </>
       )
